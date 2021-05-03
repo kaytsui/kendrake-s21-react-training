@@ -22,7 +22,6 @@ function App() {
         {FavFood()}
         {FavFood()}
         {FavFood()}
-        {FavFood()}
       </header>
     </div>
   );
