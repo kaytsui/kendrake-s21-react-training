@@ -18,6 +18,8 @@ function App() {
         <h3>{greeting}</h3>
         <img src={logo} className="App-logo" alt="logo" />
         {FavFood()}
+        {FavFood()}
+        {FavFood()}
       </header>
     </div>
   );
