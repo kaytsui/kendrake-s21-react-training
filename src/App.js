@@ -14,6 +14,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>{greeting}</h1>
+        <h2>{greeting}</h2>
+        <h3>{greeting}</h3>
         <img src={logo} className="App-logo" alt="logo" />
         {FavFood()}
       </header>
